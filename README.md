@@ -10,7 +10,7 @@ Leitura da base de dados (produtos.csv)
 Cadastro automático de cada produto
 Repetição do processo até finalizar a lista
 
-#🛠️ Tecnologias Utilizadas
+# 🛠️ Tecnologias Utilizadas
 🐍 Python 3
 🤖 PyAutoGUI
 📊 Pandas
